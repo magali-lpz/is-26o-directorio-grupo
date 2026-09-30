@@ -1,6 +1,5 @@
 # Ficha de Integrante
 
-* **Nombre completo:** [Tu Nombre Aquí]
-* **Usuario de GitHub:** @[tu-usuario]
-* **Interés en Ingeniería de Software:** [¿Qué área te llama la atención: backend, pruebas, gestión, frontend?]
-* **Herramienta favorita o conocida:** [Git, Notion, VS Code, Python, etc.]
+* **Nombre completo: Leonardo D Maldonado Garduño**
+* **Usuario de GitHub:Leo-D-G**  **Interés en Ingeniería de Software: entender el problema del usuario para poder resolverlo** 
+* **Herramienta favorita o conocida: git y visualstudio** 
